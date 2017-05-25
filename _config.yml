@@ -1,9 +1,9 @@
 # main text of home
 name: David Coy
-bio: Software Development <br/> InfoSec <br /> Ruby::JS::Bash
+bio: Software Development <br/> InfoSec <br /> Ruby::Python::JS::Bash
 
 # twitter summary info
-description: Software Development - InfoSec - Ruby::JS::Bash
+description: Software Development - InfoSec - Ruby::Python::JS::Bash
 
 # if it's an external image, update below for true
 # better with square images
@@ -47,14 +47,14 @@ github: obsidianspork
 # stackoverflow: 7044681/mystackoverflow
 # quora: obsidianspork
 # reddit: username
-medium: obsidianspork
+medium: davidcoy
 # vimeo: myvimeo
 email: david@obsidianspork.io
 
 authors:
     davidcoy:
         name: David Coy
-        bio: Father. Linux. InfoSec. Ruby::JS::Bash
+        bio: Father. Linux. InfoSec. Ruby::Python::JS::Bash
         external-image: false
         picture: assets/images/profile.jpg
         twitter: obsidianspork
