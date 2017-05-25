@@ -54,7 +54,7 @@ email: david@obsidianspork.io
 authors:
     davidcoy:
         name: David Coy
-        bio: Father. Linux. InfoSec. Ruby, Python or JS.
+        bio: Father. Linux. InfoSec. Ruby::JS::Bash
         external-image: false
         picture: assets/images/profile.jpg
         twitter: obsidianspork
