@@ -1,5 +1,5 @@
 ---
-title: "Ruby Thoughts"
+title: "First Thoughts"
 layout: post
 date: 2017-05-24 23:06:29
 image: /assets/images/rubyLogo.png
@@ -10,7 +10,7 @@ tag:
 - ruby
 category: blog
 author: davidcoy
-description: My thoughts on Ruby
+description: My first thoughts for this blog
 ---
 
 
