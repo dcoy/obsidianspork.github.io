@@ -1,0 +1,11 @@
+---
+disallows:
+  - /tags*
+  - /tag*
+  - /404.html
+---
+
+User-agent: *{% for disallowed in page.disallows %}
+Disallow: {{ disallowed }}{% endfor %}
+Allow: /
+Host: david-coy.com
