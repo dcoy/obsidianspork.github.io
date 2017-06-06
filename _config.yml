@@ -1,9 +1,9 @@
 # main text of home
 name: David Coy
-bio: Software Development <br/> InfoSec <br /> Ruby::Python::JS::Bash
+bio: DevOps <br/> InfoSec <br /> Ruby::Python::Bash
 
 # twitter summary info
-description: Software Development - InfoSec - Ruby::Python::JS::Bash
+description: DevOps - InfoSec - Ruby::Python::Bash
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ email: david@obsidianspork.io
 authors:
     davidcoy:
         name: David Coy
-        bio: Father. Linux. InfoSec. Ruby::Python::JS::Bash
+        bio: Father. Linux. InfoSec. Ruby::Python::Bash
         external-image: false
         picture: assets/images/profile.jpg
         twitter: obsidianspork

@@ -28,12 +28,9 @@ layout: page
 <h2>Studying</h2>
 
 <ul class="skill-list">
-	<li>Penetration Testing</li>
-	<li>Malware Analysis</li>
-	<li>Defensive Security</li>
-	<li>Cross Site Request Forgery</li>
-	<li>HTTP Parameter Polution</li>
-	<li>Cross Site Scripting</li>
+	<li>Chef</li>
+	<li>Rspec/ChefSpec/InSpec</li>
+	<li>Ansible</li>
 </ul>
 
 <h2>Projects</h2>
