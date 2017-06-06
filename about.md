@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>David Coy is a Customer Support Engineer at <a href="https://twitter.com/linuxacademyCOM">@linuxacademyCOM</a> who is studying software development in a security mindset.</p>
+<p>David Coy is a Customer Support Engineer at <a href="https://twitter.com/linuxacademyCOM">@linuxacademyCOM</a> who is studying DevOps in a security mindset.</p>
 
-<p>My interests are primarily JavaScript and TypeScript, Node.js, defensive security principles and coffee, of course.</p>
+<p>My interests are primarily Ruby, Python, Bash scripting, DevOps, defensive security principles and coffee, of course.</p>
 
 <h2>Skills</h2>
 
